@@ -1,0 +1,64 @@
+.container{
+    margin: 7% auto;
+    width: 500px;
+    height: 600px;
+    /* display: flex;
+    justify-content: flex-start;
+    align-items:center;  */
+    background-color: rgba(0, 0, 0,0.2);
+    box-shadow: 10px 10px 10px ;
+    background-image:url(图片素材/IMG_20240706_223331118.png) ;
+    /* opacity: 70%; */
+}
+body{
+    background-image:url(图片素材/IMG_20240706_22118.png);
+    background-repeat: no-repeat;
+    background-size:auto;
+}
+input{
+    border:
+    outline：none;
+    width: 200px;
+    height: 40px;
+    border-color: black;
+}
+h1{
+    margin: auto;
+    position:relative;
+    left: 220px;;
+    padding-top: 50px;
+}
+button{
+    position: relative;
+    left: 500px;
+    top: 500px;
+}
+form{
+    padding-top: 100px;
+    padding-inline: 70px;
+    border: 200px;
+    border-color: black;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 150px;
+}
+.anniu{
+    width: 90px;
+    height: 50px;
+    position: relative;
+    /* left: 30px; */
+    margin: 55px;
+}
+div{
+    border-radius:30px;
+}
+svg{
+  width: 35px;
+  float: left;
+  position: relative;
+  left: 155px;
+  bottom:90px;
+  margin:15px;
+}
